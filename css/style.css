@@ -143,3 +143,41 @@ a {
    font-weight: 700;
    text-align: end;
 }
+
+
+
+
+.section3 {
+}
+.section3__container {
+   max-width: 920px;
+   margin: 120px auto;
+}
+.section3__body {
+   background-color: rgba(49, 114, 235, 0.874);
+   border-radius: 10px;
+   padding: 48px 90px;
+}
+.section3__content {
+   display: flex;
+   justify-content: space-between;
+}
+.section3__content__left {
+}
+.section3__content_title {
+   font-weight: 800;
+   font-size: 22px;
+}
+.section3__content_subtitle {
+   color: rgba(255, 255, 255, 0.783);
+}
+.section3__content_btn {
+   margin-top: 16px;
+}
+.section3__content_btn a {
+   padding: 6px 32px;
+   border: 2px solid #fff;
+   color: #fff;
+   border-radius: 8px;
+   font-weight: 700;
+}
