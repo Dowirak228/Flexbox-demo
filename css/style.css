@@ -181,3 +181,15 @@ a {
    border-radius: 8px;
    font-weight: 700;
 }
+
+
+
+.footer {
+   background-color: #1f2937;
+   padding: 40px 0;
+}
+
+.footer__content {
+   color: rgba(255, 255, 255, 0.918);
+   text-align: center;
+}
